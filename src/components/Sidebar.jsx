@@ -11,7 +11,7 @@ function Sidebar({
   return (
     <div className="app-sidebar">
       <div className="app-sidebar-header">
-        <h1>ノート</h1>
+        <h1>Note</h1>
         <button onClick={onAddNote}>追加</button>
       </div>
       <div className="app-sidebar-notes">
